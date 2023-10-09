@@ -11,6 +11,6 @@ Hello My name is **Michelangelo**(*Mike*) **Ascalon** . I live in Washington Sta
 
  [My Github page](https://mikeascalon.github.io/reading-notes/)
 
- ![](layers-5_resized](https://github.com/mikeascalon/reading-notes/assets/147121119/849bdca7-7199-49c2-849e-292374d1c520)
+ ![](https://github.com/mikeascalon/reading-notes/assets/147121119/849bdca7-7199-49c2-849e-292374d1c520)
 
 
