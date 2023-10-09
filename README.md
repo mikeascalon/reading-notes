@@ -1,7 +1,7 @@
 # reading-notes
 
 ## Growth Mindset
-`rgb(9,105,218)` *It's ones perspective in life on how we go through everyday  where we can either accept there is always room  to learn, make mistakes and at the end  of  the day  a better person.*
+> *It's ones perspective in life on how we go through everyday  where we can either accept there is always room  to learn, make mistakes and at the end  of  the day  a better person.*
 
 Three values to be able to help me keep track on my growth mindset . one being resilient everyday. Two will be accountability and third will be integrity.
 
