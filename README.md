@@ -1,4 +1,3 @@
-`#000000`
 # reading-notes
 
 ## Growth Mindset
