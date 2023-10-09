@@ -8,4 +8,5 @@ Three values to be able to help me keep track on my growth mindset . one being r
 
 ## **About Me:**
 Hello My name is Michelangelo(Mike) Ascalon . I live in Washington State. I just got out of the military service. Looking for a new career in Tech. I don’t have any formal tech training. I know it will be a challenge to able to finish this course, but I know It will be rewarding at the end.
- [Git hub page](https://mikeascalon.github.io/reading-notes/)
+
+ [My Github page](https://mikeascalon.github.io/reading-notes/)
