@@ -9,10 +9,18 @@ Markdown is portable. Files containing Markdown-formatted text can be opened usi
 What symbol will create a heading in Markdown?
 #
 How many do you need to create the largest heading?
+1
 
 How many do you need to create the smallest heading?
+6
 
 When making text bold or italicized for emphasis, it is best practice to use which symbol?
+*
+
 How do you create a link with Markdown?
 
+To create an link by wrapping link text in brackets [ ], this will be the text that will show on your page and  wrap the URL address in parentheses ( ).
+
 What are the three symbols you can use to create an unordered (bulleted) list with Markdown?
+
+Three synbols that you can use for unordered list, add dashes (-), asterisks (*), or plus signs (+) in front of line items.
