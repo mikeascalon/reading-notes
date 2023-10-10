@@ -3,7 +3,7 @@
 ## **Markdown**
 Markdown is a lightweight markup language that you can use to add formatting elements to plaintext text documents. Created by John Gruber in 2004, Markdown is now one of the world’s most popular markup languages.
 
-## **Markdown is usefull because.. **
+## ** Markdown is usefull because.. **
  - Markdown is portable. Files containing Markdown-formatted text can be opened using virtually any application. If you decide you don’t like the Markdown application you’re currently using, you can import your Markdown files into another Markdown application. That’s in stark contrast to word processing applications like Microsoft Word that lock your content into a proprietary file format.
  - Markdown can be used for everything. People use it to create websites, documents, notes, books, presentations, email messages, and technical documentation.
  - Markdown is platform independent. You can create Markdown-formatted text on any device running any operating system.
@@ -14,10 +14,10 @@ Markdown is a lightweight markup language that you can use to add formatting ele
 
 ## * *You'll only need *1 #*to create the largest heading? **
 
-## **You'll only need 6 to create the smallest heading?**
+## ** You'll only need 6 to create the smallest heading? **
 
-## **When making text bold or italicized for emphasis, it is best practice to use * symbol?**
+## ** When making text bold or italicized for emphasis, it is best practice to use * symbol? **
 
-## **To create an link by wrapping link text in brackets [ ], this will be the text that will show on your page and  wrap the URL address in parentheses ( ).**
+## ** To create an link by wrapping link text in brackets [ ], this will be the text that will show on your page and  wrap the URL address in parentheses ( ). **
 
 ## ** Three synbols that you can use for unordered list, add dashes (-), asterisks (*), or plus signs (+) in front of line items. **
