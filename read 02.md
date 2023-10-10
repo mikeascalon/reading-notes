@@ -19,7 +19,7 @@
 ## Can you explain what is happening in the following scenario if these commands and arguments are entered into the command line? (Arguments are extra instructions given to a command.)
 
 * **cd projects** - change directory into projects folder
-* **mkdir new-project** - make a new directory name new-projects
+* **mkdir new-project** - make a new directory name new-projects under the projects directory.
 * **touch new-project/newfile.md**  - make a new file named newfile.md in the new-project directory
 * **cd ..** - you are leaving the directory and going 1 level up
 * **ls projects/new-project** - list of files inside the new folder named new-projects that is under the directory of projects
