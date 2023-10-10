@@ -22,4 +22,4 @@
 * **mkdir new-project** - make a new directory name new-projects
 * **touch new-project/newfile.md**  - make a new file named newfile.md in the new-project directory
 * **cd ..** - you are leaving the directory and going 1 level up
-* ls projects/new-project - list of files inside the new folder named new-projects that is under the directory of projects
+* **ls projects/new-project** - list of files inside the new folder named new-projects that is under the directory of projects
