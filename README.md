@@ -14,7 +14,7 @@ Hello My name is **Michelangelo**(*Mike*) **Ascalon** . I live in Washington Sta
 1. [Class 02 The Coder's Computer](read02.md)
 1. [Class 03 Revisions and the Cloud](code102/class03.md)
 1. [Class 04 Structure Web Pages with HTML](code102/class04.md)
-1. Class 05
+1. [Class 05 Design Web Pages with CSS] (code102/class05.md)
 1. Class 06
 1. Class 07
 1. Class 08
