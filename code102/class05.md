@@ -4,7 +4,7 @@
 
 1.What is the purpose of CSS?
 
-Color to text , styles our pages
+Used to style and format web content, separating design from structure.
 
 2.What are the three ways to insert CSS into your project?
 
