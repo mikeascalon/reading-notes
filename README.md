@@ -16,8 +16,8 @@ Hello My name is **Michelangelo**(*Mike*) **Ascalon** . I live in Washington Sta
 1. [Class 04 Structure Web Pages with HTML](code102/class04.md)
 1. [Class 05 Design Web Pages with CSS](code102/class05.md)
 1. [Class 06 Dynamic Web Pages with JavaScript](code102/class06.md)
-1. Class 07
-1. Class 08
+1. [Class 07 Prpgramming with JavaScript](code102/class07.md)
+1. [Class 08 Operators and Loops](code102/class08.md)
 
 #### Code 201 Reading Notes
 
