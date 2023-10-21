@@ -1,7 +1,5 @@
 # Reading Notes
 
-## **About Me:**
-
 Welcome to my reading notes documenting my journey as a software developer with Code Fellows. These notes capture the essence of my learning and experiences, offering insights and guidance to fellow developers and enthusiasts alike. Explore the world of coding, from basics to advanced concepts, and join me on this exciting journey.
 
 >Hello My name is **Michelangelo**(*Mike*) **Ascalon** . I live in Washington State. I just got out of the military service. Looking for a new career in Tech. I don’t have any formal tech training. I know it will be a challenge to able to finish this course, but I know It will be rewarding at the end.
@@ -18,5 +16,4 @@ Welcome to my reading notes documenting my journey as a software developer with 
 
 ![Welcome to Pacific North West](layers-5_resized.jpg)
 
-[!NOTE]
-I do not claim copyright over any of the information provided here. These are reading notes intended for personal reference and educational purposes.
+Note : I do not claim copyright over any of the information provided here. These are reading notes intended for personal reference and educational purposes.
