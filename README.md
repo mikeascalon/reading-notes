@@ -12,6 +12,8 @@ Welcome to my reading notes documenting my journey as a software developer with 
 
 [1.Setup Development toolbelt](code201/class01.md)
 
+[2.Basic of HTML,CSS and JS](code201/class02.md)
+
 ## Code 301-Intermediate Software Development
 
 ## Code 401-Advance Software Development
