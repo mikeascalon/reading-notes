@@ -16,6 +16,8 @@ Welcome to my reading notes documenting my journey as a software developer with 
 
 [3.List, The box model, and Loops](code201/class03.md)
 
+[3.HTML Links, JS Functions, and Intro to CSS Layout](code201/class04.md)
+
 ## Code 301-Intermediate Software Development
 
 ## Code 401-Advance Software Development
