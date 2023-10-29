@@ -20,6 +20,8 @@ Welcome to my reading notes documenting my journey as a software developer with 
 
 [5.Images, Color, Text](code201/class05.md)
 
+[6.Domain Modeling,Inro to the DOM, and Objects Literal Notation](code201/class06.md)
+
 ## Code 301-Intermediate Software Development
 
 ## Code 401-Advance Software Development
