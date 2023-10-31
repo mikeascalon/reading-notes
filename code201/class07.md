@@ -34,6 +34,14 @@ When this is used within an object literal (i.e., when defining an object using 
 * Constructor Function:
 When this is used within a constructor function, it refers to the instance of the object being created by the constructor
 
+## Object Prototypes Using A Constructor
+
+1.Explain prototypes and inheritance via an analogy from your previous work experience
+
+* In your dental clinic, you create "prototypes" for each type of dental instrument. For example, you have a "ToothbrushPrototype" for all toothbrushes, a "ScalerPrototype" for all scalers, and a "MirrorPrototype" for all dental mirrors. These prototypes define common attributes and functions that instruments of the same type should share. For instance, they specify that all dental instruments should be sterilizable and have a handle for gripping.
+
+* Inheritance in JavaScript can be likened to the relationship between the dental instrument prototypes and their instances. Just as actual dental instruments inherit attributes and functions from their prototype, JavaScript objects inherit properties and methods from their prototypes. This means that a toothbrush "inherits" the general properties and functions from the "ToothbrushPrototype."
+
 ### Resources
 
 [HTML table basics](https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables/Basics)
