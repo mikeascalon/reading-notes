@@ -24,7 +24,7 @@
 
 1.What is a constructor and what are some advantages to using it?
 
- a constructor is a special method or function that is automatically called when an object of a class is created or instantiated. 
+ a constructor is a special method or function that is automatically called when an object of a class is created or instantiated.
 
 2.How does the term this differ when used in an object literal versus when used in a constructor?
 

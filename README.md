@@ -24,6 +24,8 @@ Welcome to my reading notes documenting my journey as a software developer with 
 
 [7.HTML Tables and JS Constructor Functions](code201/class07.md)
 
+[8.Flexbox](code201/class08.md)
+
 ## Code 301-Intermediate Software Development
 
 ## Code 401-Advance Software Development
