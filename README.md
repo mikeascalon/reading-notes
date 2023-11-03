@@ -28,6 +28,8 @@ Welcome to my reading notes documenting my journey as a software developer with 
 
 [9.Forms and Events](code201/class09.md)
 
+[10. Debugging](code201/class10.md)
+
 ## Code 301-Intermediate Software Development
 
 ## Code 401-Advance Software Development
