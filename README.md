@@ -30,7 +30,7 @@ Welcome to my reading notes documenting my journey as a software developer with 
 
 [10. Debugging](code201/class10.md)
 
-[11.Audio, Video, Images]()
+[11.Audio, Video, Images](code201/class11.md)
 
 ## Code 301-Intermediate Software Development
 
