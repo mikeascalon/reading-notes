@@ -32,6 +32,8 @@ Welcome to my reading notes documenting my journey as a software developer with 
 
 [11.Audio, Video, Images](code201/class11.md)
 
+[12.Chart.js, Canvas](code201/class12.md)
+
 ## Code 301-Intermediate Software Development
 
 ## Code 401-Advance Software Development
