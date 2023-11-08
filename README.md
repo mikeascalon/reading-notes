@@ -34,6 +34,8 @@ Welcome to my reading notes documenting my journey as a software developer with 
 
 [12.Chart.js, Canvas](code201/class12.md)
 
+[13.Local Storage and How To Use It On Websites](code201/class13.md)
+
 ## Code 301-Intermediate Software Development
 
 ## Code 401-Advance Software Development
