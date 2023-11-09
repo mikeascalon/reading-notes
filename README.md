@@ -36,6 +36,8 @@ Welcome to my reading notes documenting my journey as a software developer with 
 
 [13.Local Storage and How To Use It On Websites](code201/class13.md)
 
+[CSS Transitions & Animations](code201/class14b.md)
+
 ## Code 301-Intermediate Software Development
 
 ## Code 401-Advance Software Development
