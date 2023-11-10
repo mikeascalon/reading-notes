@@ -38,6 +38,8 @@ Welcome to my reading notes documenting my journey as a software developer with 
 
 [14.CSS Transitions & Animations](code201/class14b.md)
 
+[14a.Psychological Safety](code201/class14a.md)
+
 ## Code 301-Intermediate Software Development
 
 ## Code 401-Advance Software Development
