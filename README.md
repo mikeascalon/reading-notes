@@ -42,7 +42,7 @@ Welcome to my reading notes documenting my journey as a software developer with 
 
 ## Code 301-Intermediate Software Development
 
-[1.Introduction to React and Components]()
+[1.Introduction to React and Components](code301/class01.md)
 
 ## Code 401-Advance Software Development
 
