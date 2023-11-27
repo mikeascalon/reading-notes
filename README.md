@@ -42,6 +42,8 @@ Welcome to my reading notes documenting my journey as a software developer with 
 
 ## Code 301-Intermediate Software Development
 
+[1.Introduction to React and Components]()
+
 ## Code 401-Advance Software Development
 
 ![Welcome to Pacific North West](layers-5_resized.jpg)
