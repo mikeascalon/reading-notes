@@ -22,13 +22,9 @@ Put the following things in the order that they happen: componentDidMount, rende
 
 1. componentWillUnmount
 
-
-
-
 What does componentDidMount do?
 
 * This method is called just before the component is removed from the DOM. It is used for cleanup tasks such as cancelling network requests or cleaning up subscriptions to prevent memory leaks.
-
 
 ## React State Vs Props
 
@@ -56,8 +52,6 @@ What is the big difference between props and state?
 
 * State: Data that is managed within a component and can be changed by that component. State is internal and specific to the component that owns it.
 
-
-
 When do we re-render our application?
 
 It occurs when the component's state or props change.
@@ -70,10 +64,8 @@ What are some examples of things that we could store in state?
 
 * Force Re-render
 
-
 ### Resources
 
 [Component Lifecycle Events](https://medium.com/@joshuablankenshipnola/react-component-lifecycle-events-cb77e670a093)
 
-
-[ChatGPT]()
+[ChatGPT](https://chat.openai.com/)
