@@ -44,6 +44,8 @@ Welcome to my reading notes documenting my journey as a software developer with 
 
 [1.Introduction to React and Components](code301/class01.md)
 
+[2.State and Props](code301/class02.md)
+
 ## Code 401-Advance Software Development
 
 ![Welcome to Pacific North West](layers-5_resized.jpg)
