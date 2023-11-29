@@ -46,6 +46,8 @@ Welcome to my reading notes documenting my journey as a software developer with 
 
 [2.State and Props](code301/class02.md)
 
+[3.Passing Functions as Props](code301/class03.md)
+
 ## Code 401-Advance Software Development
 
 ![Welcome to Pacific North West](layers-5_resized.jpg)
