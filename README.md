@@ -48,6 +48,8 @@ Welcome to my reading notes documenting my journey as a software developer with 
 
 [3.Passing Functions as Props](code301/class03.md)
 
+[4.React and Forms](code301/class04.md)
+
 ## Code 401-Advance Software Development
 
 ![Welcome to Pacific North West](layers-5_resized.jpg)
