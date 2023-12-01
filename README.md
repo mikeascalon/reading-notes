@@ -50,6 +50,8 @@ Welcome to my reading notes documenting my journey as a software developer with 
 
 [4.React and Forms](code301/class04.md)
 
+[5.Putting it all together](code301/class05.md)
+
 ## Code 401-Advance Software Development
 
 ![Welcome to Pacific North West](layers-5_resized.jpg)
