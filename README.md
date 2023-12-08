@@ -58,6 +58,8 @@ Welcome to my reading notes documenting my journey as a software developer with 
 
 [9.Functional Programming](code301/class09.md)
 
+[10.JavaScript error messages](code301/class10.md)
+
 ## Code 401-Advance Software Development
 
 ![Welcome to Pacific North West](layers-5_resized.jpg)
