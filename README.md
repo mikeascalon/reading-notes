@@ -60,6 +60,8 @@ Welcome to my reading notes documenting my journey as a software developer with 
 
 [10.JavaScript error messages](code301/class10.md)
 
+[11.MongoDB and Mongoose](code301/class11.md)
+
 ## Code 401-Advance Software Development
 
 ![Welcome to Pacific North West](layers-5_resized.jpg)
