@@ -62,8 +62,11 @@ Welcome to my reading notes documenting my journey as a software developer with 
 
 [11.MongoDB and Mongoose](code301/class11.md)
 
+[12.CRUD](code301/class12.md)
+
 ## Code 401-Advance Software Development
 
 ![Welcome to Pacific North West](layers-5_resized.jpg)
+
 
 Note : I do not claim copyright over any of the information provided here. These are reading notes intended for personal reference and educational purposes.
