@@ -64,6 +64,8 @@ Welcome to my reading notes documenting my journey as a software developer with 
 
 [12.CRUD](code301/class12.md)
 
+[More CRUD](code301/class13.md)
+
 ## Code 401-Advance Software Development
 
 ![Welcome to Pacific North West](layers-5_resized.jpg)
