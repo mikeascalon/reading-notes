@@ -64,7 +64,9 @@ Welcome to my reading notes documenting my journey as a software developer with 
 
 [12.CRUD](code301/class12.md)
 
-[More CRUD](code301/class13.md)
+[13.More CRUD](code301/class13.md)
+
+[14.Diversity & Inclusion in the Tech Industry](code301/class14.md)
 
 ## Code 401-Advance Software Development
 
