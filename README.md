@@ -72,6 +72,8 @@ Welcome to my reading notes documenting my journey as a software developer with 
 
 ## Code 401-Advance Software Development
 
+[Prework SQL](code401/prework01.md)
+
 ![Welcome to Pacific North West](layers-5_resized.jpg)
 
 
