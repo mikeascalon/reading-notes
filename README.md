@@ -74,6 +74,8 @@ Welcome to my reading notes documenting my journey as a software developer with 
 
 [Prework SQL](code401/prework01.md)
 
+[Prework Command Line](code401/prework02.md)
+
 ![Welcome to Pacific North West](layers-5_resized.jpg)
 
 
