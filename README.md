@@ -76,6 +76,8 @@ Welcome to my reading notes documenting my journey as a software developer with 
 
 [Prework Command Line](code401/prework02.md)
 
+[Prework Growth Mindset](code401/prework03.md)
+
 ![Welcome to Pacific North West](layers-5_resized.jpg)
 
 
