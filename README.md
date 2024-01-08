@@ -78,6 +78,8 @@ Welcome to my reading notes documenting my journey as a software developer with 
 
 [Prework Growth Mindset](code401/prework03.md)
 
+[1. Pain and Suffering & Beginners Guide to Big O](code401/class01.md)
+
 ![Welcome to Pacific North West](layers-5_resized.jpg)
 
 
