@@ -80,6 +80,8 @@ Welcome to my reading notes documenting my journey as a software developer with 
 
 [1. Pain and Suffering & Beginners Guide to Big O](code401/class01.md)
 
+[2.FileIO & Exceptions](code401/class03.md)
+
 ![Welcome to Pacific North West](layers-5_resized.jpg)
 
 
