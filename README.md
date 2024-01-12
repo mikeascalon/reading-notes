@@ -84,7 +84,7 @@ Welcome to my reading notes documenting my journey as a software developer with 
 
 [4.Classes and Objects,Thinking Recursively and Pytest Fixtures and Coverage](code401/class04.md)
 
-5.[Examples of Complexities](code401/class05.md)
+5.[Traversing a linked list](code401/class05.md)
 
 ![Welcome to Pacific North West](layers-5_resized.jpg)
 
