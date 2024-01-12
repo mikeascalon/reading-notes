@@ -1,75 +1,44 @@
-# Big O Chart
+#  Traversing a linked list and checking :
 
-## Examples of Complexities
+In a linked list, we have a series of connected nodes, each containing data and a reference to the next node.
+We can't use regular loops (like foreach or for) to go through the list, so we depend on the "Next" property in each node to guide us to the next node.
 
-### Constant Time: O(1)
+We use a while() loop to traverse the list. This loop keeps running as long as the current node is not null.
+If we try to traverse a null node, it causes an issue, so the loop helps us avoid that.
 
-```python
-def get_first_element(lst):
-    return lst[0]
+We have a variable called "Current" that tells us where we are in the linked list.
+We move forward in the list by updating "Current" to the next node.
 
-# No matter how large the list is, the time complexity is constant.
 
-```
-### Linear Time: O(n)
-
-```python
-def print_elements(lst):
-    for element in lst:
-        print(element)
-
-# The time complexity grows linearly with the size of the list.
-
-```
-
-### Logarithmic Time: O(n log n)
-
-```python
-def binary_search(lst, target):
-    low, high = 0, len(lst) - 1
-
-    while low <= high:
-        mid = (low + high) // 2
-        if lst[mid] == target:
-            return mid
-        elif lst[mid] < target:
-            low = mid + 1
-        else:
-            high = mid - 1
-
-# Binary search divides the search space in half, resulting in logarithmic time.
+```plaintext
+Start with the head of the list
+┌─> Node 1: Check value, not the one we're looking for
+│
+├─> Node 2: Check value, not the one we're looking for
+│
+├─> Node 3: Check value, found the one we're looking for
+│
+└─> End of the list
 ```
 
-### Quadratic Time: O(n^2)
+Example
 
-```python
-def print_pairs(lst):
-    for i in range(len(lst)):
-        for j in range(len(lst)):
-            print(lst[i], lst[j])
+```python 
+CheckIfValueExists(value)
+  Set Current to the beginning of the list (Head)
 
-# Nested loops result in quadratic time complexity.
-```
+  While Current is not null
+    If the value in the current node is equal to the target value
+      Return true (we found the value)
 
-### Exponential Time: O(2^n)
-```python
-def fibonacci_recursive(n):
-    if n <= 1:
-        return n
-    else:
-        return fibonacci_recursive(n-1) + fibonacci_recursive(n-2)
+    Move to the next node by updating Current to Current.Next
 
-# The recursive Fibonacci algorithm has exponential time complexity.
+  If the loop finishes and we haven't found the value
+    Return false (value is not in the list)
 
 ```
-### Factorial Time: O(n!)
 
-```python
-def factorial_recursive(n):
-    if n == 0 or n == 1:
-        return 1
-    else:
-        return n * factorial_recursive(n-1)
+Resources
 
-# The recursive factorial function has factorial time complexity.
-```
+[Search an element in a Linked List (Iterative and Recursive)](https://www.geeksforgeeks.org/search-an-element-in-a-linked-list-iterative-and-recursive/)
+
