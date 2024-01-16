@@ -78,6 +78,8 @@ Welcome to my reading notes documenting my journey as a software developer with 
 
 [Prework Growth Mindset](code401/prework03.md)
 
+[Prework Data Structures and Algorithms ](code401/prework04.md)
+
 [1. Pain and Suffering & Beginners Guide to Big O](code401/class01.md)
 
 [3.FileIO & Exceptions](code401/class03.md)
