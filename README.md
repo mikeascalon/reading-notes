@@ -82,6 +82,8 @@ Welcome to my reading notes documenting my journey as a software developer with 
 
 [1. Pain and Suffering & Beginners Guide to Big O](code401/class01.md)
 
+[2.Testing and Modules](code401/class02.md)
+
 [3.FileIO & Exceptions](code401/class03.md)
 
 [4.Classes and Objects,Thinking Recursively and Pytest Fixtures and Coverage](code401/class04.md)
