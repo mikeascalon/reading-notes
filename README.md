@@ -94,6 +94,8 @@ Welcome to my reading notes documenting my journey as a software developer with 
 
 [7. Ten Thousand Game 2 ](code401/class07.md)
 
+[8.Ten Thousand 3](code401/class08.md)
+
 ![Welcome to Pacific North West](layers-5_resized.jpg)
 
 
