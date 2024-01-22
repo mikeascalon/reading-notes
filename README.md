@@ -96,6 +96,8 @@ Welcome to my reading notes documenting my journey as a software developer with 
 
 [8.Ten Thousand 3](code401/class08.md)
 
+[11. Jupyter Labs and Numpy Tutorials ](code401/class11.md)
+
 ![Welcome to Pacific North West](layers-5_resized.jpg)
 
 
