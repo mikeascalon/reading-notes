@@ -116,3 +116,5 @@ logical_array = h > 2  # element-wise comparison
 [What is Jupyter Lab](https://jupyterlab.readthedocs.io/en/stable/getting_started/overview.html)
 
 [Numpy Tutorial](https://www.dataquest.io/blog/numpy-tutorial-python/)
+
+[ChatGPT](https://chat.openai.com/)
