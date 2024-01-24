@@ -100,6 +100,8 @@ Welcome to my reading notes documenting my journey as a software developer with 
 
 [12.Pandas in 10](code401/class12.md)
 
+[13.Linear Regressions](code401/class13.md)
+
 ![Welcome to Pacific North West](layers-5_resized.jpg)
 
 
