@@ -102,7 +102,7 @@ Welcome to my reading notes documenting my journey as a software developer with 
 
 [13.Linear Regressions](code401/class13.md)
 
-[14.Data Visualization]()
+[14.Data Visualization](code401/class14.md)
 
 ![Welcome to Pacific North West](layers-5_resized.jpg)
 
