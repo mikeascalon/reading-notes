@@ -104,6 +104,8 @@ Welcome to my reading notes documenting my journey as a software developer with 
 
 [14.Data Visualization](code401/class14.md)
 
+[16.Serverless & Vercel](code401/class16.md)
+
 ![Welcome to Pacific North West](layers-5_resized.jpg)
 
 
