@@ -106,6 +106,8 @@ Welcome to my reading notes documenting my journey as a software developer with 
 
 [16.Serverless & Vercel](code401/class16.md)
 
+[17.Web Scraping](code401/class17.md)
+
 ![Welcome to Pacific North West](layers-5_resized.jpg)
 
 
