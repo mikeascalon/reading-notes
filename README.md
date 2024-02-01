@@ -110,6 +110,8 @@ Welcome to my reading notes documenting my journey as a software developer with 
 
 [18.Cryptography](code401/class18.md)
 
+[19.Automation](code401/class19.md)
+
 ![Welcome to Pacific North West](layers-5_resized.jpg)
 
 
