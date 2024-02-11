@@ -26,3 +26,17 @@ Explain the role of Django’s MTV (Model-View-Template) architecture and how it
 What is the purpose of Tailwind CSS, and how does it differ from Bootstrap CSS?
 
 Tailwind CSS focuses on providing utility classes for custom styling and offers maximum flexibility and customization, while Bootstrap CSS provides pre-designed components for building consistent and responsive web interfaces with a more opinionated styling approach. The choice between them depends on the specific requirements and preferences of the project and development team.
+
+# Resources
+
+[Getting started with Django](https://www.djangoproject.com/start/)
+
+[Django introduction](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Introduction)
+
+[How Django Works Behind the Scenes](https://wsvincent.com/how-django-works-behind-the-scenes/)
+
+[Tailwind CSS:](https://blog.hubspot.com/website/what-is-tailwind-css)
+
+[Tailwind CSS Django - Flowbite](https://flowbite.com/docs/getting-started/django/)
+
+[ChatGPT](https://chat.openai.com/)
