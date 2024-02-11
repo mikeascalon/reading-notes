@@ -112,6 +112,8 @@ Welcome to my reading notes documenting my journey as a software developer with 
 
 [19.Automation](code401/class19.md)
 
+[21.Intro to Django](code401/class21.md)
+
 ![Welcome to Pacific North West](layers-5_resized.jpg)
 
 
