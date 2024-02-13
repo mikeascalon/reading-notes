@@ -114,6 +114,8 @@ Welcome to my reading notes documenting my journey as a software developer with 
 
 [21.Intro to Django](code401/class21.md)
 
+[22.Django Models](code401/class22.md)
+
 ![Welcome to Pacific North West](layers-5_resized.jpg)
 
 
