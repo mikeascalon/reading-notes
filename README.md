@@ -112,9 +112,11 @@ Welcome to my reading notes documenting my journey as a software developer with 
 
 [19.Automation](code401/class19.md)
 
-[21.Intro to Django](code401/class21.md)
+[26.Intro to Django](code401/class21.md)
 
-[22.Django Models](code401/class22.md)
+[27.Django Models](code401/class22.md)
+
+[28.Django CRUD and Forms](code401/class28.md)
 
 ![Welcome to Pacific North West](layers-5_resized.jpg)
 
