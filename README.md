@@ -118,6 +118,8 @@ Welcome to my reading notes documenting my journey as a software developer with 
 
 [28.Django CRUD and Forms](code401/class28.md)
 
+[29.Django Custom User](code401/class29.md)
+
 ![Welcome to Pacific North West](layers-5_resized.jpg)
 
 
