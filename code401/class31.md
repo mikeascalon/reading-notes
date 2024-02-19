@@ -58,7 +58,7 @@ Can you explain the primary differences between Django and Django REST framework
 
 ### Resources
 
-(A Beginner's Guide to Docker)[https://wsvincent.com/beginners-guide-to-docker/]
+[A Beginner's Guide to Docker](https://wsvincent.com/beginners-guide-to-docker/)
 
-(Library Website)[https://djangoforapis.com/library-website-and-api/]
+[Library Website](https://djangoforapis.com/library-website-and-api/)
 
