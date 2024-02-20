@@ -122,6 +122,8 @@ Welcome to my reading notes documenting my journey as a software developer with 
 
 [31.Django REST Framework & Docker](code401/class31.md)
 
+[32.DRF Permissions, generic view and SQL review](code401/class32.md)
+
 ![Welcome to Pacific North West](layers-5_resized.jpg)
 
 
