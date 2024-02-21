@@ -124,6 +124,8 @@ Welcome to my reading notes documenting my journey as a software developer with 
 
 [32.DRF Permissions, generic view and SQL review](code401/class32.md)
 
+[33. Authentication & Production Server](code401/class33.md)
+
 ![Welcome to Pacific North West](layers-5_resized.jpg)
 
 
