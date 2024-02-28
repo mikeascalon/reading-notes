@@ -132,6 +132,8 @@ Welcome to my reading notes documenting my journey as a software developer with 
 
 [37.React 1](code401/class37.md)
 
+[38.React 2](code401/class38.md)
+
 ![Welcome to Pacific North West](layers-5_resized.jpg)
 
 
