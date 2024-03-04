@@ -49,3 +49,5 @@ Next.js provides a straightforward and efficient way to handle static file servi
 
 [Deploying Your Next.js App](https://nextjs.org/learn-pages-router/basics/deploying-nextjs-app/deploy)
 
+[chatgpt](https://chat.openai.com/)
+
