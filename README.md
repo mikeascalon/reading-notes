@@ -138,6 +138,10 @@ Welcome to my reading notes documenting my journey as a software developer with 
 
 [41.React 4](code401/class41.md)
 
+[42.Pythonisms](code401/class42.md)
+
+[Ethics](code401/ethics.md)
+
 ![Welcome to Pacific North West](layers-5_resized.jpg)
 
 
