@@ -144,5 +144,7 @@ Welcome to my reading notes documenting my journey as a software developer with 
 
 ![Welcome to Pacific North West](layers-5_resized.jpg)
 
+![resume ready for review](resume_ready_for_review.png)
+
 
 Note : I do not claim copyright over any of the information provided here. These are reading notes intended for personal reference and educational purposes.
